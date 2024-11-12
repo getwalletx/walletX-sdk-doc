@@ -19,7 +19,7 @@ This will not only enhance the user experience but will also help dApps to focus
 ```
 @getwalletx:registry=https://registry.npmjs.org/
 package-lock=false
-//registry.npmjs.org/:_authToken=${ACCESS_TOKEN}
+//registry.npmjs.org/:_authToken=ACCESS_TOKEN
 ```
 
 2. Install the package in your dApp
